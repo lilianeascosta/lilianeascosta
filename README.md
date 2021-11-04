@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Oiii eu sou Liliane, estudante de Sistemas de Informação pela e fundadora do Code Queens!
+## Oiii eu sou Liliane, estudante de Sistemas de Informação pela Universidade Federal de Sergipe e fundadora do Code Queens!
 <div align="center">
   <a href="https://github.com/lilianeascosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilianeascosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
